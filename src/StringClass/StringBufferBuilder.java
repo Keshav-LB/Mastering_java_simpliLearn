@@ -15,6 +15,8 @@ public class StringBufferBuilder {
         s2.append(" World");
         s3.append(" World");
         
+        System.out.println(s2.reverse());
+        
         System.out.println(s1);
         System.out.println(s2);
         System.out.println(s3);

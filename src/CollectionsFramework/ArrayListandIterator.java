@@ -15,6 +15,8 @@ public class ArrayListandIterator {
 	        al1.add(5,70);
 	        al1.set(6,100);
 	        
+	        System.out.println("Value at index 3: "+al1.get(3));
+	        
 	        //al1.forEach(n->System.out.println(n));
 	        //al1.forEach(System.out::println);
 	        al1.forEach(n->show(n));

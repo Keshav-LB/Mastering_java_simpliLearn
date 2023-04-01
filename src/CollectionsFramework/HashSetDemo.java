@@ -12,6 +12,8 @@ public class HashSetDemo {
 	        hs.add(10);
 	        
 	        
+	        
+	        
 	        System.out.println(hs);
 	}
 
